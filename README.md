@@ -5,12 +5,6 @@
 Platform Engineer, Cloud SRE/DevOps specialist. Broad experience in Open
 Source technology.
 
-## Skills
-
-- **Languages**: [List of Programming Languages]
-- **Frameworks**: [List of Frameworks]
-- **Tools**: [List of Tools and Platforms]
-
 ## GitHub Stats
 
 ![dex4er's GitHub stats](https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=radical)
