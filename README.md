@@ -7,11 +7,13 @@ Source technology.
 
 ## GitHub Stats
 
-![dex4er's GitHub stats](https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=radical)
+![GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=dark#gh-dark-mode-only)
+![GitHub stats Light](https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=default#gh-light-mode-only)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&layout=compact&theme=radical)
+![Top Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&show_icons=true&theme=dark#gh-dark-mode-only)
+![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&show_icons=true&theme=dark#gh-light-mode-only)
 
 ## Connect with Me
 
