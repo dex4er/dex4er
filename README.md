@@ -21,7 +21,17 @@ Source technology.
 
 ## Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dex4er&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=dex4er&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=dex4er&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dex4er" />
+</picture>
 
 ## Connect with Me
 
