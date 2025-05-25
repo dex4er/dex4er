@@ -19,19 +19,9 @@ Source technology.
   <img src="https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true" />
 </picture>
 
-## Top Languages
+## Contributions
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&langs_count=10&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&langs_count=10&show_icons=true&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&langs_count=10&show_icons=true" />
-</picture>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dex4er&theme=radical)
 
 ## Connect with Me
 
@@ -44,10 +34,6 @@ Source technology.
 - [Freelens](https://github.com/freelensapp/freelens)
 - [PureProxy](https://github.com/dex4er/pureproxy)
 - [tf](https://github.com/dex4er/tf)
-
-## Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dex4er&theme=radical)
 
 ## Support
 
