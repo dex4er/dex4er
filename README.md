@@ -7,13 +7,31 @@ Source technology.
 
 ## GitHub Stats
 
-![GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=dark#gh-dark-mode-only)
-![GitHub stats Light](https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=default#gh-light-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true" />
+</picture>
 
 ## Top Languages
 
-![Top Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&show_icons=true&theme=dark#gh-dark-mode-only)
-![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&show_icons=true&theme=dark#gh-light-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&show_icons=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dex4er&show_icons=true" />
+</picture>
 
 ## Connect with Me
 
