@@ -39,11 +39,11 @@ Source technology.
 
 ## Projects
 
-- [Freelens](https://github.com/freelensapp/freelens) [![GitHub](https://img.shields.io/github/stars/freelensapp/freelens?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/freelensapp/freelens)
-- [tf](https://github.com/dex4er/tf) [![GitHub](https://img.shields.io/github/stars/dex4er/tf?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/dex4er/tf)
-- [drpdecompress](https://github.com/dex4er/drpdecompress) [![GitHub](https://img.shields.io/github/stars/dex4er/drpdecompress?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/dex4er/drpdecompress)
-- [fakechroot](https://github.com/dex4er/fakechroot) [![GitHub](https://img.shields.io/github/stars/dex4er/fakechroot?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/dex4er/fakechroot)
-- [PureProxy](https://github.com/dex4er/pureproxy) [![GitHub](https://img.shields.io/github/stars/dex4er/pureproxy?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/dex4er/pureproxy)
+- [![GitHub](https://img.shields.io/github/stars/freelensapp/freelens?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/freelensapp/freelens) [Freelens](https://github.com/freelensapp/freelens) 
+- [![GitHub](https://img.shields.io/github/stars/dex4er/tf?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/dex4er/tf) [tf](https://github.com/dex4er/tf)
+- [![GitHub](https://img.shields.io/github/stars/dex4er/drpdecompress?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/dex4er/drpdecompress) [drpdecompress](https://github.com/dex4er/drpdecompress)
+- [![GitHub](https://img.shields.io/github/stars/dex4er/fakechroot?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/dex4er/fakechroot) [fakechroot](https://github.com/dex4er/fakechroot)
+- [![GitHub](https://img.shields.io/github/stars/dex4er/pureproxy?style=flat&label=GitHub%20%E2%AD%90&logo=github)](https://github.com/dex4er/pureproxy) [PureProxy](https://github.com/dex4er/pureproxy)
 
 ## Support
 
