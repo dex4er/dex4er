@@ -39,11 +39,11 @@ Source technology.
 
 ## Projects
 
+- [Freelens](https://github.com/freelensapp/freelens)
+- [tf](https://github.com/dex4er/tf)
 - [drpdecompress](https://github.com/dex4er/drpdecompress)
 - [fakechroot](https://github.com/dex4er/fakechroot)
-- [Freelens](https://github.com/freelensapp/freelens)
 - [PureProxy](https://github.com/dex4er/pureproxy)
-- [tf](https://github.com/dex4er/tf)
 
 ## Support
 
