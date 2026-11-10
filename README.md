@@ -9,11 +9,11 @@ Source technology.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=dark"
+    srcset="https://ghstats.dev/api/card?username=dex4er"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true&theme=light"
+    srcset="https://ghstats.dev/api/card?username=dex4er&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=dex4er&show_icons=true" />
